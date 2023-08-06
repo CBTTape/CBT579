@@ -1,0 +1,6 @@
+2023-08-06 05:20:49.279584 - Initialized conversion of CBT579
+2023-08-06 05:20:49.308503 - Received CBT.V505.FILE579.PDS from FILE579.XMI 
+2023-08-06 05:20:49.310927 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE579.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:20:49.311964 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE579.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:20:49.312995 - Found @FILE579.txt (text/plain) in CBT.V505.FILE579.PDS, moved to PDS/@FILE579
+2023-08-06 05:20:49.313986 - Found SPMACROS.txt (text/plain) in CBT.V505.FILE579.PDS, moved to PDS/SPMACROS
