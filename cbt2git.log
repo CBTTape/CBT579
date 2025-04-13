@@ -1,0 +1,5 @@
+2025-04-13 20:51:20.733102 - Received CBT.V508.FILE579.PDS from FILE579.XMI 
+2025-04-13 20:51:20.733921 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE579.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:51:20.734012 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE579.PDS, moved to PDS/$$NOTE1
+2025-04-13 20:51:20.734091 - Found @FILE579.txt (text/plain) in CBT.V508.FILE579.PDS, moved to PDS/@FILE579
+2025-04-13 20:51:20.734207 - Found SPMACROS.txt (text/plain) in CBT.V508.FILE579.PDS, moved to PDS/SPMACROS
